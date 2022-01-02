@@ -21,8 +21,6 @@ print(digit1 + digit2)
 
 two_digit_number = input("Type a two digit number: ")
 
-# Find out the type of output first - print(type(two_digit_number)
-
 result = int(two_digit_number[0]) + int(two_digit_number[1])
 
 print(result)
