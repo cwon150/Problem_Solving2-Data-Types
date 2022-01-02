@@ -8,6 +8,9 @@ two_digit_number = input("Type a two digit number: ")
 
 #Write your code below this line 👇
 
+# Firstly, we find out the what type of the data output. By typing - print(type(two_digit_number))
+# And so the result is <class 'str'> shows in console, which means the data sets will be strings output. 
+
 digit1 = int(two_digit_number[0])
 
 digit2 = int(two_digit_number[1])
